@@ -37,7 +37,7 @@
 --------------
 ## روز و ساعت ارائه دروس
 
-<table style="width:100%">
+<table style="width:1000px;backgrond-color:yello;">
   <tr>
 	<th>18-20</th>
     <th >16-18</th>
