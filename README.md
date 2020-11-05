@@ -7,7 +7,6 @@
 - [GitHub](https://github.com/mohammady74)
 ------------------
 ## گروه ها
-
 1. نرم افزار معماری
     <br>
     1.1 [_ASE-6_بهرام بهنژاد ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/06_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)    
@@ -18,7 +17,9 @@
 	1.5  [_ASE- 16_بهناز رفيعي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/16_بهناز%20رفيعي)<br>
 	1.6  [_ASE-24_پوريا صفري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/24_پوريا%20صفري)<br>
 	1.7  [_ASE-15_عليرضا رزمجو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/15_عليرضا%20رزمجو)<br>
- 2. افزار نرم ایجاد  متدولوژی 
+	<br>
+	<br>
+2. افزار نرم ایجاد  متدولوژی 
     <br>
     2.1 [_ASE-4_بهرام بهنژاد ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/04_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)    
     2.2 [_ASE-27 مهتاب محمد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/27_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)    
