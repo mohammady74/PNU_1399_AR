@@ -8,7 +8,7 @@
 - [مدرک js](https://www.sololearn.com/Certificate/1024-20328645/pdf/)
 - [ارایه درس متدولوژی ایجاد نرم افزار-کتاب توسعه سیستم های اطلاعاتی](https://drive.google.com/file/d/1ESfgSce8D6ou6jOqIt__wtNx85AnTSzp/view?usp=sharing)
 - [روخوانی کتاب  Richard N.- Software Architecture_-درس معماری نرم افزار ](https://drive.google.com/drive/folders/1prctXuhPRD6HwVGoS2L8afmx9oFcpPsY?usp=sharing)
-- [ Mediator method]()
+- [ Mediator method-1](https://github.com/mohammady74/Mediator-method-1)
 ------------------
 ## گروه ها
 1. نرم افزار معماری
