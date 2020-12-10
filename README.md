@@ -6,6 +6,7 @@
 - [SOP](        )
 - [GitHub](https://github.com/mohammady74)
 - [مدرک js](https://www.sololearn.com/Certificate/1024-20328645/pdf/)
+- [ارایه درس متدولوژی--کتاب توسعه سیستم های اطلاعاتی]()
 ------------------
 ## گروه ها
 1. نرم افزار معماری
