@@ -9,6 +9,7 @@
 - [madrake-sololearn-js](https://www.sololearn.com/Certificate/1024-20328645/pdf/)
 - [ارایه درس متدولوژی ایجاد نرم افزار-کتاب توسعه سیستم های اطلاعاتی Methodology-Presentation-Chapter-26](https://drive.google.com/file/d/1ESfgSce8D6ou6jOqIt__wtNx85AnTSzp/view?usp=sharing)
 - [Design and Development of Web Information Systems - Klaus-Dieter Schewe, Bernhard Thalheim  روخوانی کتاب ](https://drive.google.com/file/d/1PI6MTUqzd6oFV3OCNJdIrhcZjSfP2TWf/view?usp=sharing)
+<br/>
 #درس معماری نرم افزار
 - [PNU_3991_AR](https://github.com/mohammady74/PNU_1399_AR)
 - [Resume](https://mohammady74.github.io/resume.github.io) 
