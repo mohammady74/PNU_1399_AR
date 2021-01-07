@@ -1,4 +1,5 @@
 # PNU_3991_AR
+<div dir="rtl">
 ---------
 # مهتاب محمد
 #درس متدولوژی
@@ -31,6 +32,13 @@
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/mohammady74/m/blob/main/%D9%85%D8%AA%D8%AF%D9%88%D9%84%D9%88%DA%98%DB%8C.pdf)
 - [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/mohammady74/m1/blob/main/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C%20%D9%86%D8%B1%D9%85%20%D8%A7%D9%81%D8%B2%D8%A7%D8%B1.pdf)
+------------------
+## فهرست درس ها  
+
+[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/28_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)
+<br>
+[1115280_01	معماري نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/26_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)
+<br>
 ------------------
 ## گروه ها
 1. نرم افزار معماری
