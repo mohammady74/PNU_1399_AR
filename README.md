@@ -5,6 +5,7 @@
 - [PNU_3991_AR](https://github.com/mohammady74/PNU_1399_AR)
 - [Resume](https://mohammady74.github.io/resume.github.io) 
 - [SOP](https://mohammady74.github.io/sop/)
+- [SOP](https://github.com/mohammady74/sop2/blob/main/Screenshot%20(15).png)
 - [GitHub](https://github.com/mohammady74)
 - [madrake-sololearn-js](https://www.sololearn.com/Certificate/1024-20328645/pdf/)
 - [ارایه درس متدولوژی ایجاد نرم افزار-کتاب توسعه سیستم های اطلاعاتی Methodology-Presentation-Chapter-26](https://drive.google.com/file/d/1ESfgSce8D6ou6jOqIt__wtNx85AnTSzp/view?usp=sharing)
@@ -20,6 +21,16 @@
  - [ Mediator method-1](https://github.com/mohammady74/Mediator-method-1)
  - [ Mediator method-2](https://drive.google.com/file/d/1iqwVSnb_598hG3WXnqe43IcmIFDvAF5z/view?usp=sharing)
  - [ارائه الگوی mediator](https://drive.google.com/file/d/1iqwVSnb_598hG3WXnqe43IcmIFDvAF5z/view?usp=sharing)
+ ------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/mohammady74/r/blob/main/%D8%B1%D8%B2%D9%88%D9%85%D9%87%20%D9%88%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D8%B4%D9%86%D8%A7%D9%85%D9%87.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/mohammady74/-/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%A8%D8%AE%D8%B4%20%D8%B9%D9%85%D9%88%D9%85%DB%8C1%D8%AE%D9%84%D8%A7%D8%B5%D9%87.pdf)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/mohammady74/m/blob/main/%D9%85%D8%AA%D8%AF%D9%88%D9%84%D9%88%DA%98%DB%8C.pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/mohammady74/m1/blob/main/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C%20%D9%86%D8%B1%D9%85%20%D8%A7%D9%81%D8%B2%D8%A7%D8%B1.pdf)
 ------------------
 ## گروه ها
 1. نرم افزار معماری
